@@ -1,6 +1,6 @@
 # Covid19_data_crawler
 
-covid19_data_crawling by Python
+Covid19_data_crawling by Python
 
 https://www.worldometers.info/coronavirus/
 
