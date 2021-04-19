@@ -1,4 +1,4 @@
-# Covid19_data_crawler
+# COVID-19_data_crawler
 
 Covid19_data_crawling by Python
 
